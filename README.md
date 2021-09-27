@@ -8,4 +8,4 @@ Ce référentiel rassemble les codes que j'ai utilisés pour résoudre certains 
 
 # :uk: Jane Street's Puzzles
 
-This repository gathers the codes I used to solve some of **Jane Street**'s monthly *puzzles*.
+This repository gathers the codes I used to solve some of **Jane Street**'s monthly puzzles.
